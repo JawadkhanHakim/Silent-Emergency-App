@@ -1,0 +1,9 @@
+<resources>
+
+    <color name="primaryColor">#0D47A1</color>      <!-- Dark Blue -->
+    <color name="primaryLight">#1976D2</color>     <!-- Medium Blue -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="sosRed">#D32F2F</color>
+
+</resources>

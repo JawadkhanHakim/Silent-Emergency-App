@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Silent Emergency App</string>
+    <string name="title">Silent Emergency App</string>
+    <string name="hint_phone">Enter Emergency Phone Number</string>
+    <string name="save_contact">Save Emergency Contact</string>
+    <string name="info">Tap SOS to send emergency alert with location</string>
+    <string name="sos_sent">SOS Sent</string>
+</resources>
